@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>REDE ATUALIZADA FTTH 31/05/19</name>
+    <NetworkLink>
+      <name>REDE ATUALIZADA FTTH - 31/05/2019</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1SKWQCYnzMokQjWx_bg43EZVo1L4lhzG0&lid=oT1AOfy00IY]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
